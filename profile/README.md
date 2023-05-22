@@ -2,7 +2,7 @@
 
 # Welcome to Rooster 👋
 
-A social networking site for Coastal Carolina University (CCU) community
+A social networking site for the Coastal Carolina University (CCU) community
 
 ### [www.roostersocial.com](https://www.roostersocial.com/)
 
